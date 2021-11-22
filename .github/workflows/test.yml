@@ -3,7 +3,7 @@ name: Test CI
 on:
   push:
     branches: [ main ]
-  pull_reqeust:
+  pull_request:
     branches: [ main ]
 
 jobs:
