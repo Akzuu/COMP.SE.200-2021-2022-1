@@ -1,3 +1,15 @@
+[![Coverage Status](https://coveralls.io/repos/github/Akzuu/COMP.SE.200-2021-2022-1/badge.svg?branch=main)](https://coveralls.io/github/Akzuu/COMP.SE.200-2021-2022-1?branch=main)
+
+An assignment for COMP.SE.200-2021-2022-1 Software testing -course
+in Tampere university.
+Made by Akseli Kolari & Henri Kiiski
+
+How to run the tests:
+```
+npm ci
+npm test
+```
+
 # Student template
 
 ## Purpose of this repository
